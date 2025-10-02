@@ -9,4 +9,4 @@
 將Active Direction Domain Server 與 DNS Server打勾並按下一步  
 最後按下安裝就完成了  
 
-接著下載VS C++ 2013<https://www.microsoft.com/zh-TW/download/details.aspx?id=40784&msockid=3cc3b7a93710612c2941a267366d6000>
+接著下載[VS C++ 2013](https://www.microsoft.com/zh-TW/download/details.aspx?id=40784&msockid=3cc3b7a93710612c2941a267366d6000)
